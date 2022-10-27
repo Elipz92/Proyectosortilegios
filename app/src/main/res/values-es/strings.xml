@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProyectoInicial</string>
+    <string name="text_Ingreso">Ingreso</string>
+    <string name="text_Cursos">Cursos</string>
+</resources>

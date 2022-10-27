@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProyectoInicial</string>
+    <string name="text_Ingreso">access</string>
+    <string name="text_Cursos">avalaible courses</string>
+</resources>
